@@ -1,4 +1,4 @@
-package StatmentsWhitespaceAndIndenting;
+package ExpreshionsStatments.StatmentsWhitespaceAndIndenting;
 
 public class Main {
     public static void main(String[] args) {

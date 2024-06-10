@@ -1,4 +1,4 @@
-package HelloWorld;
+package ExpreshionsStatments.HelloWorld;
 
 public class SecondClass {
     public static void main(String[] args) {
