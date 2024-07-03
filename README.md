@@ -2,3 +2,4 @@
 Basics:
 - ExpreshionsStatments
 - Control Flow
+- Inheritance
